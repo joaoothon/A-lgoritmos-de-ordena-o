@@ -21,4 +21,4 @@ Os resultados e informações foram publicados em um artigo que escrevi no site 
 **João Vitor Othon Silva**
 >**Linkedln:** [João Othon](https://www.linkedin.com/in/jo%C3%A3o-othon-2917422a6/)
 
->**GitHub:** [João Othon]()
+>**GitHub:** [João Othon](https://github.com/joaoothon)
